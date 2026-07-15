@@ -66,5 +66,5 @@ Result: 15
 This project demonstrates the implementation of a basic calculator using Python and helps in understanding fundamental programming concepts.
 
 ## Author
-Sheetal Verma
+Muskan Verma
 MCA (AI/ML)
